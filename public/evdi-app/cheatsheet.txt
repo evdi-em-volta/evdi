@@ -1,0 +1,11 @@
+to make comments in react use the following and type inside
+
+/*    */
+
+GIT
+
+git status
+git add -A
+git commit -m "enter message for reference here"
+
+git push origin master

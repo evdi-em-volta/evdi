@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9fe4672-b60f-4056-acbc-2741f4055d22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y6X1bGXy1LTbN5sUCPEaoKZEVE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\w10SSD\Desktop\WORKING FOLDER\Em volta\edvi\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\w10SSD\Desktop\WORKING FOLDER\Em volta\edvi\public" />
+      <recent name="C:\Users\w10SSD\Desktop\WORKING FOLDER\Em volta\edvi\public\images" />
+      <recent name="C:\Users\w10SSD\Desktop\WORKING FOLDER\Em volta\edvi\public\css" />
+      <recent name="C:\Users\w10SSD\Desktop\WORKING FOLDER\Em volta\Mentor\img\places" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9fe4672-b60f-4056-acbc-2741f4055d22" name="Default Changelist" comment="" />
+      <created>1582263803986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582263803986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Plugins" timestamp="1582414413464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Plugins/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582414413464" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582689884023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582689884023" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582344587848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582344587848" />
+    <state x="505" y="98" width="998" height="708" key="SettingsEditor" timestamp="1582689872851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="98" width="998" height="708" key="SettingsEditor/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582689872851" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582413880745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582413880745" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582364328492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582364328492" />
+  </component>
+</project>
