@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9fe4672-b60f-4056-acbc-2741f4055d22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact1.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact1.0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/softwarebeta1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/softwarebeta1.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/steps.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/steps.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,13 +26,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../YouTubeViews-master" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -58,8 +57,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582263803986</updated>
+      <workItem from="1595931787894" duration="805000" />
+      <workItem from="1595940806782" duration="151000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Plugins" timestamp="1582414413464">
@@ -70,18 +74,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582689884023" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582789699760">
+    <state x="733" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584322130818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582789699760" />
+    <state x="733" y="323" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1584322130818" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583055408664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1583055408664" />
     <state x="505" y="98" width="998" height="708" key="SettingsEditor" timestamp="1582689872851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="505" y="98" width="998" height="708" key="SettingsEditor/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582689872851" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582413880745">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583055400656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1582413880745" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1583055400656" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582364328492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
